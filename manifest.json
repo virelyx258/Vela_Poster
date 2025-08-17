@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "Poster",
-        "description": "腕上POST请求工具",
+        "description": "腕上 POST 请求工具",
         "preview": [
             "preview.png",
             "preview2.png",
@@ -9,7 +9,7 @@
             "preview4.png"
         ],
         "icon": "icon.png",
-        "source_url": "",
+        "source_url": "https://github.com/virelyx258/vela_poster",
         "author": [
             {
                 "name": "Virelyx",
@@ -19,12 +19,16 @@
     },
     "downloads": {
         "o65": {
-            "version": "1.0.0",
-            "file_name": "com.virelyx258.poster.release.1.0.0.rpk"
+            "version": "1.0.1",
+            "file_name": "poster_o65.rpk"
         },
         "o65m": {
-            "version": "1.0.0",
-            "file_name": "com.virelyx258.poster.release.1.0.0.rpk"
+            "version": "1.0.1",
+            "file_name": "poster_o65m.rpk"
+        },
+        "n67": {
+            "version": "1.0.1",
+            "file_name": "poster_n67.rpk"
         }
     }
 }
